@@ -150,7 +150,7 @@ Feel free to fork this repository and improve it.
 ## 📬 Connect With Me
 
 * 💻 GitHub: https://github.com/shankarparmar2024
-* 🔗 LinkedIn: *(Add your link here)*
+
 
 ---
 
