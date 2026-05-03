@@ -66,11 +66,7 @@ The goal of these projects is to:
 
 ---
 
-### 🖼️ Image Processing Tool *(Advanced)*
 
-* Built using OpenCV
-* Filters: Grayscale, Blur, Sharpen
-* Resize, Crop & Save functionality
 
 ---
 
